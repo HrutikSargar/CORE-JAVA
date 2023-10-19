@@ -1,0 +1,16 @@
+class Demo {
+	int x=10;
+	int y=10;
+	
+	void dis(){
+		System.out.println(x+y);
+	}
+
+}
+class master4
+{
+	void info(){
+		Demo.dis();    //ERROR WILL OCCUR, WE HAVE TO X=CREATE OBJECT TO ACCESS NON-STATIC MEMBER INSIDE ANOTHER CLASS
+	
+	}
+}
