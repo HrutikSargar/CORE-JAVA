@@ -1,0 +1,16 @@
+class Demo {
+	
+	int y=10;
+	
+	static void dis(){
+		System.out.println(new Demo().y);    //to access non-static member&variable we have to create reference 
+	}
+
+}
+class master{
+	public static void main(String [] args){
+	     Demo.dis();
+	
+	}
+
+}
