@@ -1,0 +1,20 @@
+
+//code will run successfully
+
+class Demo {
+	static int x=10;
+	static int y=10;
+	
+	void dis(){
+		System.out.println(x+y);
+	}
+
+}
+class Master5{
+	public static void main(String [] args){
+		System.out.println(Demo.x);
+		System.out.println(Demo.y);
+	
+	}
+
+}
