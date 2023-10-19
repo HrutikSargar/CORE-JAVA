@@ -1,0 +1,18 @@
+//CODE WILL RUN SUCCESSFULLY
+
+class Demo {
+	static int x=10;
+	int y=10;
+	
+	void dis(){
+		System.out.println(x+y);     
+	}
+
+}
+class master{
+	public static void main(String [] args){
+		new Demo().dis();					//REFERENCE VARIABLE CREATION 
+	
+	}
+
+}
