@@ -1,0 +1,25 @@
+//Business function class 
+class Demo
+{
+	//static data member
+	static int a=10;
+	
+	//static function member
+	static void test()
+	{
+		System.out.println("test method");
+	}
+}
+
+//Executable class
+
+class MainApp1
+{
+	public static void main(String [] args){
+	
+		System.out.println("a value is : "+Demo.a);
+		
+		Demo.test();
+	}
+
+}
