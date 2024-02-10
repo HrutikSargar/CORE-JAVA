@@ -1,8 +1,8 @@
-Core Java Project
+Core Java Programming Concepts With Examples
 
 Description
 
-This project is a collection of Core Java programs and examples designed to demonstrate fundamental concepts of Java programming. Whether you are a beginner looking to learn Java or an experienced developer refreshing your knowledge, this repository aims to provide clear, concise, and practical examples.
+This Repository is a collection of Core Java programs and examples designed to demonstrate fundamental concepts of Java programming. Whether you are a beginner looking to learn Java or an experienced developer refreshing your knowledge, this repository aims to provide clear, concise, and practical examples.
 
 Features
 
